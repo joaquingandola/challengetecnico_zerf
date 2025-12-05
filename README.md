@@ -5,6 +5,7 @@ Developer - File System
 El objetivo es diseñar, de manera orientada a objetos, las clases y relaciones necesarias para modelar un file system similar al de Linux. 
 
 Comandos:
+
     ● cd(dirName)
     ● touch(fileName)
     ● ls()
